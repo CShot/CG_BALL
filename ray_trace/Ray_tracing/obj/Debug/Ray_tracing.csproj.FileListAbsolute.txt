@@ -1,0 +1,154 @@
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\Julia\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\kulygina.ju\Desktop\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+E:\2\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+E:\2\Ray_tracing\obj\Debug\Ray_tracing.exe
+E:\2\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\tvc\Desktop\2\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\tvc\Desktop\2\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\tvc\Desktop\2\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\tvc\Desktop\2\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\tvc\Desktop\2\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\tvc\Desktop\2\Ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\tvc\Desktop\2\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\tvc\Desktop\2\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\tvc\Desktop\2\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\tvc\Desktop\2\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\tvc\Desktop\2\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+C:\Users\tvc\Desktop\2\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\tvc\Desktop\2\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\tvc\Desktop\2\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+C:\Users\Julia\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\Julia\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\Julia\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\Julia\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\Julia\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\Julia\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\Julia\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Julia\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\Julia\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\Julia\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Julia\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\Julia\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\Julia\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+E:\CG Labs\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+E:\CG Labs\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.exe
+E:\CG Labs\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.pdb
+E:\CG Labs\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe
+E:\CG Labs\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.pdb
+E:\CG Labs\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.dll
+E:\CG Labs\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+E:\CG Labs\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.pdb
+E:\CG Labs\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.xml
+E:\CG Labs\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+E:\CG Labs\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+E:\CG Labs\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+E:\CG Labs\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+E:\CG Labs\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\Julia\Ray_tracing\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\Максимка\Desktop\Ray_Tracing-master\Прямой raytracing\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\Максимка\Desktop\Учеба\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\Максимка\Desktop\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+G:\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+G:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.exe
+G:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.pdb
+G:\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.exe
+G:\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.pdb
+G:\ray_trace\Ray_tracing\bin\Debug\OpenTK.dll
+G:\ray_trace\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+G:\ray_trace\Ray_tracing\bin\Debug\OpenTK.pdb
+G:\ray_trace\Ray_tracing\bin\Debug\OpenTK.xml
+G:\ray_trace\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+G:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
+G:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+G:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+G:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+E:\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+E:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.exe
+E:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.pdb
+E:\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.exe
+E:\ray_trace\Ray_tracing\bin\Debug\Ray_tracing.pdb
+E:\ray_trace\Ray_tracing\bin\Debug\OpenTK.pdb
+E:\ray_trace\Ray_tracing\bin\Debug\OpenTK.xml
+E:\ray_trace\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+E:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+E:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+E:\ray_trace\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+E:\ray_trace\Ray_tracing\bin\Debug\OpenTK.dll
+E:\ray_trace\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
